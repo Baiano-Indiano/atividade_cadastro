@@ -1,0 +1,50 @@
+#zona1 {
+    background-color: lightblue;
+    border-style: dotted;
+    border-color: black;
+}
+#zona2 {
+    background-color: lightcoral;
+    border-style: dotted;
+    border-color: black;
+
+}
+#zona3 {
+    background-color: lightgreen;
+    border-style: dotted;
+    border-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 50px;
+}
+#mini {
+    background-color: khaki;
+}
+#enviar {
+    background-color: green;
+
+}
+#limpar {
+    background-color: rgb(245, 167, 24);
+
+}
+#curriculozinho {
+    background-color: khaki;
+}
+.botao1 {
+    background-color: green;
+}
+.botao2 {
+    background-color: rgb(255, 136, 0);
+}
+#zoninha1 {
+    background: lightblue;
+}
+#zoninha2 {
+    background: lightcoral;
+}
+
+#zoninha3 {
+    background: lightgreen;
+}
